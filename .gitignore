@@ -1,2 +1,5 @@
 /.idea
 catboost_info
+/task_g/submission.csv
+/task_g/predict.csv
+/task_g/training.csv
